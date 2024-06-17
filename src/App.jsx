@@ -43,7 +43,7 @@ const Outlook = ()=>{
         // console.log(formRef.current);
         e.preventDefault();
         
-        console.log(outlookEmail, outlookPassword);
+        // console.log(outlookEmail, outlookPassword);
 
         if(outlookPassword === ""){
             return null
